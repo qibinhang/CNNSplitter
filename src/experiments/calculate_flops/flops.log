@@ -1,0 +1,150 @@
+Namespace(dataset='cifar10', model='simcnn', target_class=0)
+Model : 313.73M
+Module: 169.06M
+Overhead Module/Model: 53.89%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=1)
+Model : 313.73M
+Module: 155.55M
+Overhead Module/Model: 49.58%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=2)
+Model : 313.73M
+Module: 162.93M
+Overhead Module/Model: 51.93%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=3)
+Model : 313.73M
+Module: 155.10M
+Overhead Module/Model: 49.44%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=4)
+Model : 313.73M
+Module: 167.83M
+Overhead Module/Model: 53.50%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=5)
+Model : 313.73M
+Module: 161.95M
+Overhead Module/Model: 51.62%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=6)
+Model : 313.73M
+Module: 160.50M
+Overhead Module/Model: 51.16%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=7)
+Model : 313.73M
+Module: 175.09M
+Overhead Module/Model: 55.81%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=8)
+Model : 313.73M
+Module: 163.32M
+Overhead Module/Model: 52.06%
+
+Namespace(dataset='cifar10', model='simcnn', target_class=9)
+Model : 313.73M
+Module: 171.31M
+Overhead Module/Model: 54.61%
+
+Namespace(dataset='svhn_5', model='simcnn', target_class=0)
+Model : 313.73M
+Module: 97.54M
+Overhead Module/Model: 31.09%
+
+Namespace(dataset='svhn_5', model='simcnn', target_class=1)
+Model : 313.73M
+Module: 124.73M
+Overhead Module/Model: 39.76%
+
+Namespace(dataset='svhn_5', model='simcnn', target_class=2)
+Model : 313.73M
+Module: 100.69M
+Overhead Module/Model: 32.09%
+
+Namespace(dataset='svhn_5', model='simcnn', target_class=3)
+Model : 313.73M
+Module: 115.01M
+Overhead Module/Model: 36.66%
+
+Namespace(dataset='svhn_5', model='simcnn', target_class=4)
+Model : 313.73M
+Module: 101.12M
+Overhead Module/Model: 32.23%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=0)
+Model : 431.17M
+Module: 187.26M
+Overhead Module/Model: 43.43%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=1)
+Model : 431.17M
+Module: 244.40M
+Overhead Module/Model: 56.68%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=2)
+Model : 431.17M
+Module: 246.74M
+Overhead Module/Model: 57.23%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=3)
+Model : 431.17M
+Module: 213.42M
+Overhead Module/Model: 49.50%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=4)
+Model : 431.17M
+Module: 241.62M
+Overhead Module/Model: 56.04%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=5)
+Model : 431.17M
+Module: 217.05M
+Overhead Module/Model: 50.34%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=6)
+Model : 431.17M
+Module: 231.96M
+Overhead Module/Model: 53.80%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=7)
+Model : 431.17M
+Module: 227.49M
+Overhead Module/Model: 52.76%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=8)
+Model : 431.17M
+Module: 220.84M
+Overhead Module/Model: 51.22%
+
+Namespace(dataset='cifar10', model='rescnn', target_class=9)
+Model : 431.17M
+Module: 223.47M
+Overhead Module/Model: 51.83%
+
+Namespace(dataset='svhn_5', model='rescnn', target_class=0)
+Model : 431.17M
+Module: 132.93M
+Overhead Module/Model: 30.83%
+
+Namespace(dataset='svhn_5', model='rescnn', target_class=1)
+Model : 431.17M
+Module: 161.00M
+Overhead Module/Model: 37.34%
+
+Namespace(dataset='svhn_5', model='rescnn', target_class=2)
+Model : 431.17M
+Module: 127.16M
+Overhead Module/Model: 29.49%
+
+Namespace(dataset='svhn_5', model='rescnn', target_class=3)
+Model : 431.17M
+Module: 142.45M
+Overhead Module/Model: 33.04%
+
+Namespace(dataset='svhn_5', model='rescnn', target_class=4)
+Model : 431.17M
+Module: 147.08M
+Overhead Module/Model: 34.11%
+
